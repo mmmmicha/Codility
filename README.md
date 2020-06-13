@@ -24,8 +24,7 @@
     - [MinAvgTwoSlice_Ans](https://github.com/wjdrhkd456/Codility_Practice/blob/master/src/com/codility/Prefix_Sums/MinAvgTwoSlice_Ans.java)
     - [PassingCars](https://github.com/wjdrhkd456/Codility_Practice/blob/master/src/com/codility/Prefix_Sums/PassingCars.java)
     - [PassingCars2](https://github.com/wjdrhkd456/Codility_Practice/blob/master/src/com/codility/Prefix_Sums/PassingCars2.java)
-    - [PassingCars_Ans]
-(https://github.com/wjdrhkd456/Codility_Practice/blob/master/src/com/codility/Prefix_Sums/PassingCars_Ans.java)
+    - [PassingCars_Ans](https://github.com/wjdrhkd456/Codility_Practice/blob/master/src/com/codility/Prefix_Sums/PassingCars_Ans.java)
 
   - Sorting
     - [Distinct](https://github.com/wjdrhkd456/Codility_Practice/blob/master/src/com/codility/Sorting/Distinct.java)
