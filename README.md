@@ -1,4 +1,4 @@
-# CodilityPractice
+# Codility
   - Link : [Codility](https://app.codility.com/programmers/)
 
 ## codility 알고리즘 공부
